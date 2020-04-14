@@ -770,7 +770,11 @@ body {
 	margin-left: 210px;
 }
 
-
+.maincost {
+	font-size: 14px;
+	line-height: 17px;
+	margin: 20px;
+}
 
 /*Media*/
 
@@ -1055,3 +1059,4 @@ body {
 .footer_menu {
 	margin-right: 50px;
 }
+
